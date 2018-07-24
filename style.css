@@ -1,0 +1,24 @@
+#head{
+    display: flex;
+    justify-content: flex-start;
+    background-color: grey;
+    
+    width: 100%;
+    border:black 3.5px solid;
+    
+}
+#body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+   
+    width: 100%;
+    border: black 3px solid;
+
+}
+img{
+    border:black 3px solid;
+    width:150px;
+    height:200px;
+    margin:7px;
+}
